@@ -22,7 +22,7 @@ git status
 git remote set-url origin https://github.com/Ganesh-1992/github-for-devops-workshop.git
 clear
 git remote -v
-git push origin master
+git push origin master --force
 clear
 
 
